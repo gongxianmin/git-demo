@@ -1,3 +1,7 @@
 利用rebase合并多次提交
 commit1
 commit2
+commit3
+commit4
+commit5
+commit6
